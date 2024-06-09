@@ -16,5 +16,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshbansal61203&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshbansal61203&layout=compact&theme=radical)
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ada72e7bd922d8609e0b2ab69841023976ecca7f8d22368c577e0aade4880ebb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d79617368676162616e6938343526"><img align="center" src="https://streak-stats.demolab.com/?user=akshbansal61203" alt="yashgabani845" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=akshbansal61203&amp;" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ada72e7bd922d8609e0b2ab69841023976ecca7f8d22368c577e0aade4880ebb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d79617368676162616e6938343526"><img align="center" src="https://streak-stats.demolab.com/?user=akshbansal61203" alt="Akshar Bansal" data-canonical-src="https://streak-stats.demolab.com/?user=akshbansal61203" style="max-width: 100%;"></a></p>
 
