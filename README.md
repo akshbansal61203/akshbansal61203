@@ -16,5 +16,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshbansal61203&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshbansal61203&layout=compact&theme=radical)
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://streak-stats.demolab.com/?user=akshbansal61203" alt="Akshar Bansal"><img align="center" src="https://streak-stats.demolab.com/?user=akshbansal61203" alt="Akshar Bansal" data-canonical-src="https://streak-stats.demolab.com/?user=akshbansal61203" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://streak-stats.demolab.com/?user=akshbansal61203&theme=radical" alt="Akshar Bansal"><img align="center" src="https://streak-stats.demolab.com/?user=akshbansal61203&theme=radical" alt="Akshar Bansal" data-canonical-src="https://streak-stats.demolab.com/?user=akshbansal61203&theme=radical" style="max-width: 100%;"></a></p>
 
